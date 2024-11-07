@@ -1,5 +1,15 @@
 # Bike Sales
 
+#### Table Of Content 
+- [Goal of the project](#goal-of-the-project)
+- [Tools used](#tools-used)
+- [Steps Taken to Accomplish this Project](#steps-taken-to-accomplish-this-project)
+- [Metadata](#metadata)
+- [Data Visualizations](#data-visualizations)
+- [Summary Of Findings](#summary-of-findings)
+- [Recommendations](#recommendations)
+
+  
 #### Summary
 
 This project is dedicated to studying the factors that influence bike purchases and providing insights to improve future sales.
